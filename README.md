@@ -1,4 +1,4 @@
-# Instructions to run game on terminal
+# Solution instructions (terminal)
 ```
 php beesinthetrap.php
 ```

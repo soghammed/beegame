@@ -1,3 +1,7 @@
+# Instructions to run game on terminal
+# php BeeGame.php
+---------------------------------------------------------------------
+
 # Bees In The Trap
 Write a simple game in PHP using the following rules. You should use modern PHP styles and design principles. You can use symfony components but you should avoid using a fully prebuilt framework.
 

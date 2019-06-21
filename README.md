@@ -1,5 +1,5 @@
 # Instructions to run game on terminal
-- php BeeGame.php
+- php beesinthetrap.php
 ---------------------------------------------------------------------
 
 # Bees In The Trap
